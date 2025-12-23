@@ -21,11 +21,11 @@ The course is scheduled to meet for 8 sessions during IAP.
 
 A tentative outline of the course is:
 
-- L1. Replicability and Version Control using Git + AI coding tools (01/08 3-4:30 PM E52-164)
-- L2. Introduction to Programming in Julia (01/09 3-4:30 PM E52-164)
-- L3. Dynamic Programming and Function Approximation (01/14 3-4:30 PM E51-325)
-- L4. Numerical Integration and Differentiation (01/17 3-4:30 PM E51-325)
-- L5. Differential Equations (01/21 3-4:30 PM E51-325)
-- L6. Numerical Optimization (01/23 3-4:30 PM E51-315)
-- L7. Zero-Solvers and Fixed Point Algorithms (01/29 4:15-5:45 PM E52-432)
-- L8. Review with an Economic Application (Dynamic Duopoly Models) (01/30 3-4:30 PM E51-315)
+- L1. Replicability and Version Control using Git + AI coding tools (01/09 1-2:30 E51-376)
+- L2. Introduction to Programming in Julia (01/12 1-2:30 E51-376)
+- L3. Dynamic Programming and Function Approximation (01/14 1-2:30 E51-376)
+- L4. Numerical Integration and Differentiation (01/16 1-2:30 E51-376)
+- L5. Differential Equations (01/20 1-2:30 E51-372)
+- L6. Numerical Optimization (01/21 1-2:30 E51-376)
+- L7. Zero-Solvers and Fixed Point Algorithms (01/23 1-2:30 E51-376)
+- L8. Review with an Economic Application (Dynamic Duopoly Models) (01/26 1-2:30 E51-376)
