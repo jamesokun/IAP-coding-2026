@@ -1,5 +1,5 @@
 # A Crash Course in Basics of Programming, Replication and Numerical Methods
-## MIT IAP 2025
+## MIT IAP 2026
 
 Instructor: James Okun (jokun@mit.edu)
 
@@ -21,7 +21,7 @@ The course is scheduled to meet for 8 sessions during IAP.
 
 A tentative outline of the course is:
 
-- L1. Replicability and Version Control using Git (01/08 3-4:30 PM E52-164)
+- L1. Replicability and Version Control using Git + AI coding tools (01/08 3-4:30 PM E52-164)
 - L2. Introduction to Programming in Julia (01/09 3-4:30 PM E52-164)
 - L3. Dynamic Programming and Function Approximation (01/14 3-4:30 PM E51-325)
 - L4. Numerical Integration and Differentiation (01/17 3-4:30 PM E51-325)
